@@ -22,11 +22,11 @@ b)The type of tournament
 You have been recruited as a football analyst in a company - Mchezopesa Ltd and tasked to accomplish the task below.Predict the result of a game between team 1 and team 2, based on who's home and who's away, and on whether or not the game is friendly (include rank in your training).
 
 # d) Recording the Experimental Design
-1.reading in the datasets.
+1. Reading in the datasets.
 
-2. checking the data for duplicates and missinng data.
+2. Checking the data for duplicates and missinng data.
 
-3. dropping of duplicates and removal filling in of missing data values with zero.
+3. Dropping of duplicates and removal filling in of missing data values with zero.
 
 4. Finding and dealing with outliers, anomalies, and missing data within the dataset.
 
